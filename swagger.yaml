@@ -13,4 +13,4 @@ paths:
           content:
             application/json:
               schema:
-                $ref: "testobject.yaml"
+                $ref: "https://raw.githubusercontent.com/Oigonin/apitest/master/testobject.yaml"
